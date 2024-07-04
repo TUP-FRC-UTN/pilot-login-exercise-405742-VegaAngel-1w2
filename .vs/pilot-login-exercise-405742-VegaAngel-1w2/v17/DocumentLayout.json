@@ -1,0 +1,313 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Usuario\\Desktop\\Prog Facultad\\Prog\\Classroom-Tareas\\pilot-login-exercise-405742-VegaAngel-1w2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6CB125A6-177C-4DE9-8F13-47A7E772EBA5}|AltaPiloto\\AltaPiloto.csproj|c:\\users\\usuario\\desktop\\prog facultad\\prog\\classroom-tareas\\pilot-login-exercise-405742-vegaangel-1w2\\altapiloto\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6CB125A6-177C-4DE9-8F13-47A7E772EBA5}|AltaPiloto\\AltaPiloto.csproj|solutionrelative:altapiloto\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CB125A6-177C-4DE9-8F13-47A7E772EBA5}|AltaPiloto\\AltaPiloto.csproj|c:\\users\\usuario\\desktop\\prog facultad\\prog\\classroom-tareas\\pilot-login-exercise-405742-vegaangel-1w2\\altapiloto\\controllers\\nacionalidadcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CB125A6-177C-4DE9-8F13-47A7E772EBA5}|AltaPiloto\\AltaPiloto.csproj|solutionrelative:altapiloto\\controllers\\nacionalidadcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Usuario\\Desktop\\Prog Facultad\\Prog\\Classroom-Tareas\\pilot-login-exercise-405742-VegaAngel-1w2\\AltaPiloto\\Migrations\\20240703194817_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:AltaPiloto\\Migrations\\20240703194817_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CB125A6-177C-4DE9-8F13-47A7E772EBA5}|AltaPiloto\\AltaPiloto.csproj|c:\\users\\usuario\\desktop\\prog facultad\\prog\\classroom-tareas\\pilot-login-exercise-405742-vegaangel-1w2\\altapiloto\\repository\\imp\\nacionalidadrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CB125A6-177C-4DE9-8F13-47A7E772EBA5}|AltaPiloto\\AltaPiloto.csproj|solutionrelative:altapiloto\\repository\\imp\\nacionalidadrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CB125A6-177C-4DE9-8F13-47A7E772EBA5}|AltaPiloto\\AltaPiloto.csproj|c:\\users\\usuario\\desktop\\prog facultad\\prog\\classroom-tareas\\pilot-login-exercise-405742-vegaangel-1w2\\altapiloto\\repository\\imp\\pilotorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CB125A6-177C-4DE9-8F13-47A7E772EBA5}|AltaPiloto\\AltaPiloto.csproj|solutionrelative:altapiloto\\repository\\imp\\pilotorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CB125A6-177C-4DE9-8F13-47A7E772EBA5}|AltaPiloto\\AltaPiloto.csproj|c:\\users\\usuario\\desktop\\prog facultad\\prog\\classroom-tareas\\pilot-login-exercise-405742-vegaangel-1w2\\altapiloto\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CB125A6-177C-4DE9-8F13-47A7E772EBA5}|AltaPiloto\\AltaPiloto.csproj|solutionrelative:altapiloto\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CB125A6-177C-4DE9-8F13-47A7E772EBA5}|AltaPiloto\\AltaPiloto.csproj|c:\\users\\usuario\\desktop\\prog facultad\\prog\\classroom-tareas\\pilot-login-exercise-405742-vegaangel-1w2\\altapiloto\\repository\\interfaz\\ipilotorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CB125A6-177C-4DE9-8F13-47A7E772EBA5}|AltaPiloto\\AltaPiloto.csproj|solutionrelative:altapiloto\\repository\\interfaz\\ipilotorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CB125A6-177C-4DE9-8F13-47A7E772EBA5}|AltaPiloto\\AltaPiloto.csproj|c:\\users\\usuario\\desktop\\prog facultad\\prog\\classroom-tareas\\pilot-login-exercise-405742-vegaangel-1w2\\altapiloto\\models\\pilotocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CB125A6-177C-4DE9-8F13-47A7E772EBA5}|AltaPiloto\\AltaPiloto.csproj|solutionrelative:altapiloto\\models\\pilotocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CB125A6-177C-4DE9-8F13-47A7E772EBA5}|AltaPiloto\\AltaPiloto.csproj|c:\\users\\usuario\\desktop\\prog facultad\\prog\\classroom-tareas\\pilot-login-exercise-405742-vegaangel-1w2\\altapiloto\\controllers\\pilotocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CB125A6-177C-4DE9-8F13-47A7E772EBA5}|AltaPiloto\\AltaPiloto.csproj|solutionrelative:altapiloto\\controllers\\pilotocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CB125A6-177C-4DE9-8F13-47A7E772EBA5}|AltaPiloto\\AltaPiloto.csproj|c:\\users\\usuario\\desktop\\prog facultad\\prog\\classroom-tareas\\pilot-login-exercise-405742-vegaangel-1w2\\altapiloto\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CB125A6-177C-4DE9-8F13-47A7E772EBA5}|AltaPiloto\\AltaPiloto.csproj|solutionrelative:altapiloto\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CB125A6-177C-4DE9-8F13-47A7E772EBA5}|AltaPiloto\\AltaPiloto.csproj|c:\\users\\usuario\\desktop\\prog facultad\\prog\\classroom-tareas\\pilot-login-exercise-405742-vegaangel-1w2\\altapiloto\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CB125A6-177C-4DE9-8F13-47A7E772EBA5}|AltaPiloto\\AltaPiloto.csproj|solutionrelative:altapiloto\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CB125A6-177C-4DE9-8F13-47A7E772EBA5}|AltaPiloto\\AltaPiloto.csproj|c:\\users\\usuario\\desktop\\prog facultad\\prog\\classroom-tareas\\pilot-login-exercise-405742-vegaangel-1w2\\altapiloto\\repository\\imp\\loginrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CB125A6-177C-4DE9-8F13-47A7E772EBA5}|AltaPiloto\\AltaPiloto.csproj|solutionrelative:altapiloto\\repository\\imp\\loginrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CB125A6-177C-4DE9-8F13-47A7E772EBA5}|AltaPiloto\\AltaPiloto.csproj|c:\\users\\usuario\\desktop\\prog facultad\\prog\\classroom-tareas\\pilot-login-exercise-405742-vegaangel-1w2\\altapiloto\\models\\nacionalidad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CB125A6-177C-4DE9-8F13-47A7E772EBA5}|AltaPiloto\\AltaPiloto.csproj|solutionrelative:altapiloto\\models\\nacionalidad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CB125A6-177C-4DE9-8F13-47A7E772EBA5}|AltaPiloto\\AltaPiloto.csproj|c:\\users\\usuario\\desktop\\prog facultad\\prog\\classroom-tareas\\pilot-login-exercise-405742-vegaangel-1w2\\altapiloto\\models\\piloto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CB125A6-177C-4DE9-8F13-47A7E772EBA5}|AltaPiloto\\AltaPiloto.csproj|solutionrelative:altapiloto\\models\\piloto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CB125A6-177C-4DE9-8F13-47A7E772EBA5}|AltaPiloto\\AltaPiloto.csproj|c:\\users\\usuario\\desktop\\prog facultad\\prog\\classroom-tareas\\pilot-login-exercise-405742-vegaangel-1w2\\altapiloto\\dto\\dtousuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CB125A6-177C-4DE9-8F13-47A7E772EBA5}|AltaPiloto\\AltaPiloto.csproj|solutionrelative:altapiloto\\dto\\dtousuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 81,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{fbcae063-e2c0-4ab1-a516-996ea3dafb72}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 107,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IPilotoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Prog Facultad\\Prog\\Classroom-Tareas\\pilot-login-exercise-405742-VegaAngel-1w2\\AltaPiloto\\Repository\\Interfaz\\IPilotoRepository.cs",
+              "RelativeDocumentMoniker": "AltaPiloto\\Repository\\Interfaz\\IPilotoRepository.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Prog Facultad\\Prog\\Classroom-Tareas\\pilot-login-exercise-405742-VegaAngel-1w2\\AltaPiloto\\Repository\\Interfaz\\IPilotoRepository.cs",
+              "RelativeToolTip": "AltaPiloto\\Repository\\Interfaz\\IPilotoRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T20:43:26.772Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PilotoContext.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Prog Facultad\\Prog\\Classroom-Tareas\\pilot-login-exercise-405742-VegaAngel-1w2\\AltaPiloto\\Models\\PilotoContext.cs",
+              "RelativeDocumentMoniker": "AltaPiloto\\Models\\PilotoContext.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Prog Facultad\\Prog\\Classroom-Tareas\\pilot-login-exercise-405742-VegaAngel-1w2\\AltaPiloto\\Models\\PilotoContext.cs",
+              "RelativeToolTip": "AltaPiloto\\Models\\PilotoContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T20:14:23.316Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "NacionalidadController.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Prog Facultad\\Prog\\Classroom-Tareas\\pilot-login-exercise-405742-VegaAngel-1w2\\AltaPiloto\\Controllers\\NacionalidadController.cs",
+              "RelativeDocumentMoniker": "AltaPiloto\\Controllers\\NacionalidadController.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Prog Facultad\\Prog\\Classroom-Tareas\\pilot-login-exercise-405742-VegaAngel-1w2\\AltaPiloto\\Controllers\\NacionalidadController.cs",
+              "RelativeToolTip": "AltaPiloto\\Controllers\\NacionalidadController.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAmwBsAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T20:41:08.046Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Prog Facultad\\Prog\\Classroom-Tareas\\pilot-login-exercise-405742-VegaAngel-1w2\\AltaPiloto\\appsettings.json",
+              "RelativeDocumentMoniker": "AltaPiloto\\appsettings.json",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Prog Facultad\\Prog\\Classroom-Tareas\\pilot-login-exercise-405742-VegaAngel-1w2\\AltaPiloto\\appsettings.json",
+              "RelativeToolTip": "AltaPiloto\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-01T20:20:02.182Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "20240703194817_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Prog Facultad\\Prog\\Classroom-Tareas\\pilot-login-exercise-405742-VegaAngel-1w2\\AltaPiloto\\Migrations\\20240703194817_InitialCreate.cs",
+              "RelativeDocumentMoniker": "AltaPiloto\\Migrations\\20240703194817_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Prog Facultad\\Prog\\Classroom-Tareas\\pilot-login-exercise-405742-VegaAngel-1w2\\AltaPiloto\\Migrations\\20240703194817_InitialCreate.cs",
+              "RelativeToolTip": "AltaPiloto\\Migrations\\20240703194817_InitialCreate.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T19:48:17.166Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PilotoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Prog Facultad\\Prog\\Classroom-Tareas\\pilot-login-exercise-405742-VegaAngel-1w2\\AltaPiloto\\Repository\\Imp\\PilotoRepository.cs",
+              "RelativeDocumentMoniker": "AltaPiloto\\Repository\\Imp\\PilotoRepository.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Prog Facultad\\Prog\\Classroom-Tareas\\pilot-login-exercise-405742-VegaAngel-1w2\\AltaPiloto\\Repository\\Imp\\PilotoRepository.cs",
+              "RelativeToolTip": "AltaPiloto\\Repository\\Imp\\PilotoRepository.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAwBYAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T21:44:28.867Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "NacionalidadRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Prog Facultad\\Prog\\Classroom-Tareas\\pilot-login-exercise-405742-VegaAngel-1w2\\AltaPiloto\\Repository\\Imp\\NacionalidadRepository.cs",
+              "RelativeDocumentMoniker": "AltaPiloto\\Repository\\Imp\\NacionalidadRepository.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Prog Facultad\\Prog\\Classroom-Tareas\\pilot-login-exercise-405742-VegaAngel-1w2\\AltaPiloto\\Repository\\Imp\\NacionalidadRepository.cs",
+              "RelativeToolTip": "AltaPiloto\\Repository\\Imp\\NacionalidadRepository.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAUwBEAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T20:44:25.879Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Prog Facultad\\Prog\\Classroom-Tareas\\pilot-login-exercise-405742-VegaAngel-1w2\\AltaPiloto\\Program.cs",
+              "RelativeDocumentMoniker": "AltaPiloto\\Program.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Prog Facultad\\Prog\\Classroom-Tareas\\pilot-login-exercise-405742-VegaAngel-1w2\\AltaPiloto\\Program.cs",
+              "RelativeToolTip": "AltaPiloto\\Program.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAwwCQAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T20:19:48.151Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PilotoController.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Prog Facultad\\Prog\\Classroom-Tareas\\pilot-login-exercise-405742-VegaAngel-1w2\\AltaPiloto\\Controllers\\PilotoController.cs",
+              "RelativeDocumentMoniker": "AltaPiloto\\Controllers\\PilotoController.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Prog Facultad\\Prog\\Classroom-Tareas\\pilot-login-exercise-405742-VegaAngel-1w2\\AltaPiloto\\Controllers\\PilotoController.cs",
+              "RelativeToolTip": "AltaPiloto\\Controllers\\PilotoController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T20:41:26.845Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UsuarioController.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Prog Facultad\\Prog\\Classroom-Tareas\\pilot-login-exercise-405742-VegaAngel-1w2\\AltaPiloto\\Controllers\\UsuarioController.cs",
+              "RelativeDocumentMoniker": "AltaPiloto\\Controllers\\UsuarioController.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Prog Facultad\\Prog\\Classroom-Tareas\\pilot-login-exercise-405742-VegaAngel-1w2\\AltaPiloto\\Controllers\\UsuarioController.cs",
+              "RelativeToolTip": "AltaPiloto\\Controllers\\UsuarioController.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAQwA8AAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T20:42:06.591Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Prog Facultad\\Prog\\Classroom-Tareas\\pilot-login-exercise-405742-VegaAngel-1w2\\AltaPiloto\\Models\\Usuario.cs",
+              "RelativeDocumentMoniker": "AltaPiloto\\Models\\Usuario.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Prog Facultad\\Prog\\Classroom-Tareas\\pilot-login-exercise-405742-VegaAngel-1w2\\AltaPiloto\\Models\\Usuario.cs",
+              "RelativeToolTip": "AltaPiloto\\Models\\Usuario.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T20:26:00.89Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "LoginRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Prog Facultad\\Prog\\Classroom-Tareas\\pilot-login-exercise-405742-VegaAngel-1w2\\AltaPiloto\\Repository\\Imp\\LoginRepository.cs",
+              "RelativeDocumentMoniker": "AltaPiloto\\Repository\\Imp\\LoginRepository.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Prog Facultad\\Prog\\Classroom-Tareas\\pilot-login-exercise-405742-VegaAngel-1w2\\AltaPiloto\\Repository\\Imp\\LoginRepository.cs",
+              "RelativeToolTip": "AltaPiloto\\Repository\\Imp\\LoginRepository.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAxwB4AAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T20:46:45.495Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Nacionalidad.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Prog Facultad\\Prog\\Classroom-Tareas\\pilot-login-exercise-405742-VegaAngel-1w2\\AltaPiloto\\Models\\Nacionalidad.cs",
+              "RelativeDocumentMoniker": "AltaPiloto\\Models\\Nacionalidad.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Prog Facultad\\Prog\\Classroom-Tareas\\pilot-login-exercise-405742-VegaAngel-1w2\\AltaPiloto\\Models\\Nacionalidad.cs",
+              "RelativeToolTip": "AltaPiloto\\Models\\Nacionalidad.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T20:04:49.816Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Piloto.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Prog Facultad\\Prog\\Classroom-Tareas\\pilot-login-exercise-405742-VegaAngel-1w2\\AltaPiloto\\Models\\Piloto.cs",
+              "RelativeDocumentMoniker": "AltaPiloto\\Models\\Piloto.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Prog Facultad\\Prog\\Classroom-Tareas\\pilot-login-exercise-405742-VegaAngel-1w2\\AltaPiloto\\Models\\Piloto.cs",
+              "RelativeToolTip": "AltaPiloto\\Models\\Piloto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T19:58:54.92Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "DtoUsuario.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Prog Facultad\\Prog\\Classroom-Tareas\\pilot-login-exercise-405742-VegaAngel-1w2\\AltaPiloto\\Dto\\DtoUsuario.cs",
+              "RelativeDocumentMoniker": "AltaPiloto\\Dto\\DtoUsuario.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Prog Facultad\\Prog\\Classroom-Tareas\\pilot-login-exercise-405742-VegaAngel-1w2\\AltaPiloto\\Dto\\DtoUsuario.cs",
+              "RelativeToolTip": "AltaPiloto\\Dto\\DtoUsuario.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T15:47:53.751Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
