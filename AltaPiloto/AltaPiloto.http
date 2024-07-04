@@ -1,0 +1,6 @@
+@AltaPiloto_HostAddress = http://localhost:5186
+
+GET {{AltaPiloto_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
